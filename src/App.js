@@ -18,7 +18,7 @@ class App extends Component {
           quote: this.state.quotes[Math.floor(Math.random() * 20)]
         });
       }.bind(this),
-      750
+      350
     );
   };
 

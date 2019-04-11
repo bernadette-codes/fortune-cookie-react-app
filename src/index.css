@@ -42,6 +42,11 @@ img {
   margin: 50px auto 30px;
 }
 
+img:hover {
+  -webkit-filter: contrast(200%);
+  filter: contrast(200%);
+}
+
 p {
   font-size: 1.75em;
   display: block;
