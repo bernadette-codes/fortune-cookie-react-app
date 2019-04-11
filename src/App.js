@@ -9,13 +9,16 @@ class App extends Component {
   };
 
   getQuote = () => {
+    this.setState({
+      quote: null
+    });
     setTimeout(
       function() {
         this.setState({
           quote: this.state.quotes[Math.floor(Math.random() * 20)]
         });
       }.bind(this),
-      250
+      750
     );
   };
 
