@@ -1,3 +1,18 @@
+## **Fortune Cookie App**
+
+Click the Fortune Cookie image to show a random quote.
+
+- It is a single-page, responsive application programmed with React
+
+**Front-End:**
+
+- React
+- CSS
+- HTML
+
+---
+
+git
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
