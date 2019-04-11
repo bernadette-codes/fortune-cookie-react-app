@@ -12,7 +12,6 @@ Click the Fortune Cookie image to show a random quote.
 
 ---
 
-git
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
