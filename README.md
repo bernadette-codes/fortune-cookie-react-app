@@ -2,7 +2,7 @@
 
 Click the Fortune Cookie image to show a random quote.
 
-It is a single-page, responsive application programmed with React
+![Fortune Cookie App Webpage](http://www.bernadetteengleman.com/img/portfolio/fortunecookiethumbnail2.jpg)
 
 - It is a single-page, responsive application programmed with React
 
