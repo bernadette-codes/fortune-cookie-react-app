@@ -32,14 +32,14 @@ main {
 }
 
 h1 {
-  font-size: 2.2em;
+  font-size: 3em;
   font-weight: 500;
-  margin-top: 50px;
+  margin-top: 10vh;
 }
 
 img {
   display: block;
-  margin: 50px auto 30px;
+  margin: 10vh auto 30px;
 }
 
 img:hover {
@@ -50,19 +50,22 @@ img:hover {
 p {
   font-size: 1.75em;
   display: block;
-  margin-left: 25px;
-  margin-right: 25px;
+  margin: 5vh 25px;
 }
 
 footer {
   position: absolute;
   left: 0;
   bottom: 0;
-  height: 40px;
+  height: 30px;
   width: 100%;
   font-size: 0.75em;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   text-align: center;
+}
+
+footer p {
+  margin: 5px;
 }
 
 @media screen and (max-width: 550px) {

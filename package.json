@@ -21,5 +21,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "Click the Fortune Cookie image to show a random quote.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernadette-estacio/fortune-cookie-react-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernadette-estacio/fortune-cookie-react-app/issues"
+  },
+  "homepage": "https://github.com/bernadette-estacio/fortune-cookie-react-app#readme",
+  "devDependencies": {}
 }

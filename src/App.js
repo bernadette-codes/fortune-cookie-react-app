@@ -13,7 +13,7 @@ class App extends Component {
       quote: null
     });
     setTimeout(
-      function() {
+      function () {
         this.setState({
           quote: this.state.quotes[Math.floor(Math.random() * 20)]
         });
@@ -28,7 +28,7 @@ class App extends Component {
         {/* Home Link */}
         <nav>
           <a
-            href="http://bernadetteengleman.com/index.html"
+            href="https://bernadetteestacio.site/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -39,11 +39,7 @@ class App extends Component {
         <MainContent getQuote={this.getQuote} quote={this.state.quote} />
 
         <footer>
-          <p>
-            <small>
-              Copyright © 2015-{new Date().getFullYear()} Bernadette Estacio.
-              All rights reserved
-            </small>
+          <p>© 2015-{new Date().getFullYear()} Bernadette Estacio
           </p>
         </footer>
       </div>
