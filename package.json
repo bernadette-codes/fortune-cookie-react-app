@@ -2,6 +2,7 @@
   "name": "fortune-cookie-react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bernadetteestacio.site/projects/Fortune-Cookie",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
@@ -21,18 +22,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "description": "Click the Fortune Cookie image to show a random quote.",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bernadette-estacio/fortune-cookie-react-app.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bernadette-estacio/fortune-cookie-react-app/issues"
-  },
-  "homepage": "https://github.com/bernadette-estacio/fortune-cookie-react-app#readme",
-  "devDependencies": {}
+  ]
 }

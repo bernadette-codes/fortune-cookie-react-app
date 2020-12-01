@@ -52,7 +52,7 @@ const MainContent = ({ getQuote, quote }) => {
     <main>
       <h1>Click Fortune Cookie</h1>
 
-      <img src={cookie} alt="fortune cookie" width="200" onClick={getQuote} />
+      <img src={cookie} alt="fortune cookie" width="300" onClick={getQuote} />
 
       <p>{quote}</p>
     </main>

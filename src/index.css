@@ -37,9 +37,22 @@ h1 {
   margin-top: 10vh;
 }
 
+@media (max-width: 480px){ 
+  h1 {
+    margin-top: 5vh;
+  }
+}
+
 img {
   display: block;
   margin: 10vh auto 30px;
+  cursor: pointer;
+}
+
+@media (max-width: 640px){ 
+  img {
+    margin: 5vh auto 30px;
+  }
 }
 
 img:hover {
@@ -50,7 +63,7 @@ img:hover {
 p {
   font-size: 1.75em;
   display: block;
-  margin: 5vh 25px;
+  margin: 5vh 10vw;
 }
 
 footer {
