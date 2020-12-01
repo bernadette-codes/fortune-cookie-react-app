@@ -2,7 +2,7 @@
   "name": "fortune-cookie-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bernadetteestacio.site/projects/Fortune-Cookie",
+  "homepage": "https://bernadetteestacio.site/projects/fortune-cookie",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",

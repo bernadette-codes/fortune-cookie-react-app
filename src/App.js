@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { getQuotes } from "./quotes";
-import cookie from "./img/cookie.jpg";
+// import cookie from "./img/cookie.jpg";
 
 class App extends Component {
   state = {
@@ -52,7 +52,7 @@ const MainContent = ({ getQuote, quote }) => {
     <main>
       <h1>Click Fortune Cookie</h1>
 
-      <img src={cookie} alt="fortune cookie" width="300" onClick={getQuote} />
+      <img src="https://bernadetteestacio.site/cookie.jpg" alt="fortune cookie" width="300" onClick={getQuote} />
 
       <p>{quote}</p>
     </main>
