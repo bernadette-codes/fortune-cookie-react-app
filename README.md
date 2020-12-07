@@ -1,8 +1,8 @@
-## **Fortune Cookie App**
+**Fortune Cookie App**
+--------------------
+Click the [Fortune Cookie](https://bernadetteestacio.site/projects/fortune-cookie/) image to show a random quote.
 
-Click the Fortune Cookie image to show a random quote.
-
-![Fortune Cookie App Webpage](http://www.bernadetteengleman.com/img/portfolio/fortunecookiethumbnail2.jpg)
+![Fortune Cookie App Webpage](https://bernadetteestacio.site/fortune-cookie.47015563.png)
 
 - It is a single-page, responsive application programmed with React
 
