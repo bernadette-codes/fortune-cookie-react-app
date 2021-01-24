@@ -1,0 +1,13 @@
+p {
+  font-size: 1.75em;
+  display: block;
+  margin: 5vh 10vw;
+
+  @media (max-width: 550px) {
+    font-size: 1.6em;
+  }
+
+  @media (max-width: 380px) {
+    font-size: 1.4em;
+  }
+}

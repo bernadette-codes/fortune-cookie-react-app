@@ -1,0 +1,23 @@
+main {
+  text-align: center;
+
+  h1 {
+    font-size: 3em;
+    font-weight: 500;
+    margin-top: 10vh;
+
+    @media (max-width: 550px) {
+      font-size: 2em;
+      margin-top: 18px;
+    }
+
+    @media (max-width: 480px) {
+      margin-top: 5vh;
+    }
+
+    @media (max-width: 380px) {
+      font-size: 1.8em;
+      margin-top: 18px;
+    }
+  }
+}

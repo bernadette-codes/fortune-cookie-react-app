@@ -1,0 +1,25 @@
+nav {
+  min-height: 30px;
+  margin: 20px;
+
+  button {
+    background: none;
+    border: none;
+    outline: none;
+  }
+
+  a {
+    height: 30px;
+    color: #ffffff;
+    font-size: 1.5em;
+    font-weight: 700;
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 0;
+    text-decoration: none;
+
+    @media (max-width: 380px) {
+      font-size: 1em;
+    }
+  }
+}

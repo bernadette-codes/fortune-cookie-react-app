@@ -1,0 +1,22 @@
+img {
+  display: block;
+  margin: 10vh auto 30px;
+  cursor: pointer;
+
+  @media (max-width: 640px) {
+    margin: 5vh auto 30px;
+  }
+
+  @media (max-width: 550px) {
+    width: 170px;
+  }
+
+  @media (max-width: 380px) {
+    width: 150px;
+  }
+
+  &:hover {
+    -webkit-filter: contrast(200%);
+    filter: contrast(200%);
+  }
+}
