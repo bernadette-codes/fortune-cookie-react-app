@@ -1,6 +1,6 @@
 ## **Fortune Cookie App**
 
-Click the [Fortune Cookie](https://fortune-cookie-message-app.vercel.app/) image to show a random quote.
+Click the [Fortune Cookie](https://bernadettecodes.netlify.app/projects/fortune-cookie/) image to show a random quote.
 
 ![Fortune Cookie App Webpage](https://raw.githubusercontent.com/bernadette-codes/Bernadettecodes/master/public/assets/img/portfolio/fortune-cookie.png)
 
